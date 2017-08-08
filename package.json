@@ -1,5 +1,5 @@
 {
-  "name": "stoplight",
+  "name": "lib-stoplight",
   "version": "1.0.0",
   "description": "stoplight ui component",
   "main": "index.js",
@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/cpoole/stoplight/issues"
   },
-  "homepage": "https://github.com/cpoole/stoplight#readme"
+  "homepage": "https://github.com/cpoole/stoplight#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-base64": "^0.1.3",
+    "http-server": "^0.10.0"
+  }
 }
