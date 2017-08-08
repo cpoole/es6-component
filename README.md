@@ -1,4 +1,4 @@
-#Sample ES6 module
+# Sample ES6 module
 
 This is a small project to illustrate how to export custom HTML elements that contain static assets (png, jpg, etc) as part of the component.
 
